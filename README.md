@@ -53,3 +53,4 @@ You can find a working example [here](http://cognito.dbroadhurst.net)
 * Authorized routes
 * Get help from contributors
 * Provide ability for administrators to add new users - Done
+# aws-cognito-test
